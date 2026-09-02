@@ -1146,20 +1146,3 @@ If you found this project useful:
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-`<b>`{=html}Built with ❤️ using Python, Statistics, Data Science and
-Machine Learning`</b>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<b>`{=html}Student Analytics & Machine Learning System --- Version
-1`</b>`{=html}
-```{=html}
-</p>
-```
-#
