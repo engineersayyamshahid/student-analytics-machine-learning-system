@@ -14,6 +14,27 @@
 
 </p>
 
+# 👨‍💻 Author
+
+## Sayyam Shahid
+
+**Full-Stack Developer \| AI & Machine Learning Learner**
+
+I am passionate about building modern applications using:
+
+-   Artificial Intelligence
+-   Machine Learning
+-   Data Science
+-   Python
+-   Full-Stack Development
+-   SaaS Applications
+-   AI Products
+
+### Connect With Me
+
+🔗 LinkedIn:\
+https://www.linkedin.com/in/sayyam-shahid-939bb135a
+
 ------------------------------------------------------------------------
 
 ## 🌟 Project Overview
@@ -1109,27 +1130,6 @@ Possible advanced features:
 -   🔗 REST API
 
 ------------------------------------------------------------------------
-
-# 👨‍💻 Author
-
-## Sayyam Shahid
-
-**Full-Stack Developer \| AI & Machine Learning Learner**
-
-I am passionate about building modern applications using:
-
--   Artificial Intelligence
--   Machine Learning
--   Data Science
--   Python
--   Full-Stack Development
--   SaaS Applications
--   AI Products
-
-### Connect With Me
-
-🔗 LinkedIn:\
-https://www.linkedin.com/in/sayyam-shahid-939bb135a
 
 ------------------------------------------------------------------------
 
